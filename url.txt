@@ -1,0 +1,15 @@
+V3
+http://scratchx.org/?url=http://nperez05.github.io/aisoy_scratch_extension/extension_v3.js#scratch
+
+AIROS4
+http://scratchx.org/?url=http://nperez05.github.io/aisoy_scratch_extension/aisoy_extension_v4_0.2_S.js#scratch
+
+http://scratchx.org/?url=http://nperez05.github.io/aisoy_scratch_extension/aisoy_extension_v4_0.2.js#scratch
+
+http://scratchx.org/?url=http://nperez05.github.io/aisoy_scratch_extension/aisoy_extension_v4_Advance.js#scratch
+
+http://scratchx.org/?url=http://nperez05.github.io/aisoy_scratch_extension/aisoy_extension_v4_Advance_unsecure.js#scratch
+
+
+AIROS5
+http://scratchx.org/?url=http://nperez05.github.io/aisoy_scratch_extension/aisoy_extension_airos5.js#scratch
