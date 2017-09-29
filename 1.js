@@ -1399,7 +1399,7 @@ new (function() {
 	var scratchList = ['Not','Done'];
 
 
-	ext.playSound = function(bot,sound){
+	ext.playSound = function(bot,sound, callback){
 		var robot=findBot(bot);
 		
 		if(robot!=null){
@@ -1409,6 +1409,7 @@ new (function() {
 					
 			robot.playService.callService(playRequest, function( result1 ){
 			});
+            callaback()
 		}
 		
 	}
