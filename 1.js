@@ -1408,7 +1408,7 @@ new (function() {
 			});
 					
 			robot.playService.callService(playRequest, function( result1 ){
-                callaback()
+                callback()
 			});
             
 		}
